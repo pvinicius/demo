@@ -1,146 +1,71 @@
 {
   "noticewall": [
     {
-      "id": 5,
-      "title": "Já ativou sua conta?",
-      "date": "2018 1, 18",
-      "notice": "Ative sua conta do Office 365 até 30/09! Veja as orientações no seu mural. Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-      "notice-type": 2
-    },
-    {
-      "id": 1,
-      "title": "Ative sua conta!",
-      "date": "2017, 1, 01",
-      "notice": "Você tem apenas 3 dias para ativar sua conta do Office 365! Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-      "notice-type": 1
-    },
-    {
-      "id": 2,
-      "title": "Já ativou sua conta?",
-      "date": "2018, 4, 18",
-      "notice": "Ative sua conta do Office 365 até 30/09! Veja as orientações no seu mural. Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-      "notice-type": 2
-    },
-    {
-      "id": 3,
-      "title": "Já ativou sua conta?",
-      "date": "2017, 1, 18",
-      "notice": "Ative sua conta do Office 365 até 30/09! Veja as orientações no seu mural. Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-      "notice-type": 1
-    },
-    {
-      "id": 4,
-      "title": "Já ativou sua conta?",
-      "date": "2017, 1, 18",
-      "notice": "Ative sua conta do Office 365 até 30/09! Veja as orientações no seu mural. Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-      "notice-type": 2
-    }
-  ],
-  "netflix": [
-    {
-      "page": 1,
-      "results": [
-        {
-          "poster_path": "/9O7gLzmreU0nGkIB6K3BsJbzvNv.jpg",
-          "adult": false,
-          "overview": "Framed in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
-          "release_date": "1994-09-10",
-          "genre_ids": [
-            18,
-            80
-          ],
-          "id": 278,
-          "original_title": "The Shawshank Redemption",
-          "original_language": "en",
-          "title": "The Shawshank Redemption",
-          "backdrop_path": "/xBKGJQsAIeweesB79KC89FpBrVr.jpg",
-          "popularity": 6.741296,
-          "vote_count": 5238,
-          "video": false,
-          "vote_average": 8.32
-        },
-        {
-          "poster_path": "/lIv1QinFqz4dlp5U4lQ6HaiskOZ.jpg",
-          "adult": false,
-          "overview": "Under the direction of a ruthless instructor, a talented young drummer begins to pursue perfection at any cost, even his humanity.",
-          "release_date": "2014-10-10",
-          "genre_ids": [
-            18,
-            10402
-          ],
-          "id": 244786,
-          "original_title": "Whiplash",
-          "original_language": "en",
-          "title": "Whiplash",
-          "backdrop_path": "/6bbZ6XyvgfjhQwbplnUh1LSj1ky.jpg",
-          "popularity": 10.776056,
-          "vote_count": 2059,
-          "video": false,
-          "vote_average": 8.29
-        },
-        {
-          "poster_path": "/d4KNaTrltq6bpkFS01pYtyXa09m.jpg",
-          "adult": false,
-          "overview": "The story spans the years from 1945 to 1955 and chronicles the fictional Italian-American Corleone crime family. When organized crime family patriarch Vito Corleone barely survives an attempt on his life, his youngest son, Michael, steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
-          "release_date": "1972-03-15",
-          "genre_ids": [
-            18,
-            80
-          ],
-          "id": 238,
-          "original_title": "The Godfather",
-          "original_language": "en",
-          "title": "The Godfather",
-          "backdrop_path": "/6xKCYgH16UuwEGAyroLU6p8HLIn.jpg",
-          "popularity": 4.554654,
-          "vote_count": 3570,
-          "video": false,
-          "vote_average": 8.26
-        },
-        {
-          "poster_path": "/ynXoOxmDHNQ4UAy0oU6avW71HVW.jpg",
-          "adult": false,
-          "overview": "Spirited Away is an Oscar winning Japanese animated film about a ten year old girl who wanders away from her parents along a path that leads to a world ruled by strange and unusual monster-like animals. Her parents have been changed into pigs along with others inside a bathhouse full of these creatures. Will she ever see the world how it once was?",
-          "release_date": "2001-07-20",
-          "genre_ids": [
-            14,
-            12,
-            16,
-            10751
-          ],
-          "id": 129,
-          "original_title": "千と千尋の神隠し",
-          "original_language": "ja",
-          "title": "Spirited Away",
-          "backdrop_path": "/djgM2d3e42p9GFQObg6lwK2SVw2.jpg",
-          "popularity": 6.886678,
-          "vote_count": 2000,
-          "video": false,
-          "vote_average": 8.15
-        },
-        {
-          "poster_path": "/nBNZadXqJSdt05SHLqgT0HuC5Gm.jpg",
-          "adult": false,
-          "overview": "Interstellar chronicles the adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
-          "release_date": "2014-11-05",
-          "genre_ids": [
-            12,
-            18,
-            878
-          ],
-          "id": 157336,
-          "original_title": "Interstellar",
-          "original_language": "en",
-          "title": "Interstellar",
-          "backdrop_path": "/xu9zaAevzQ5nnrsXN6JcahLnG4i.jpg",
-          "popularity": 12.481061,
-          "vote_count": 5600,
-          "video": false,
-          "vote_average": 8.12
-        }
-      ],
-      "total_results": 5206,
-      "total_pages": 261
+      "id": 31435,
+      "date": "2018-09-11T14:30:28",
+      "date_gmt": "2018-09-11T17:30:28",
+      "guid": {
+        "rendered": "http://siteinstitucional.homologacao.insper.edu.br/?post_type=settings_app&#038;p=31435"
+      },
+      "modified": "2018-12-12T15:27:19",
+      "modified_gmt": "2018-12-12T17:27:19",
+      "slug": "settings-do-app",
+      "status": "publish",
+      "type": "settings_app",
+      "link": "https://www.insper.edu.br/settings_app/settings-do-app/",
+      "title": {
+        "rendered": "Settings do App"
+      },
+      "content": {
+        "rendered": "",
+        "protected": false
+      },
+      "featured_media": 0,
+      "template": "",
+      "acf": {
+        "links_adicionais": [
+          {
+            "titulo": "teste",
+            "url": "url"
+          }
+        ],
+        "mural_de_avisos": [
+          {
+            "titulo": "Título",
+            "conteudo": "<p>Conteúdo <em><strong>TESTE</strong></em></p>\n<p><img class=\"wp-image-36940 aligncenter\" src=\"https://www.insper.edu.br/wp-content/uploads/2018/12/Affonso-Pastore.jpg\" alt=\"\" width=\"378\" height=\"504\" /></p>\n",
+            "categoria": "Urgente"
+          }
+        ]
+      },
+      "_links": {
+        "self": [
+          {
+            "href": "https://www.insper.edu.br/wp-json/wp/v2/settings_app/31435"
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://www.insper.edu.br/wp-json/wp/v2/settings_app"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://www.insper.edu.br/wp-json/wp/v2/types/settings_app"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "https://www.insper.edu.br/wp-json/wp/v2/media?parent=31435"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
     }
   ]
 }
